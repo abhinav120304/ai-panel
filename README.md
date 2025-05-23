@@ -1,12 +1,68 @@
-# React + Vite
+Here's your updated `README.md` with the **live deployed link** included:
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+---
 
-Currently, two official plugins are available:
+````markdown
+# 🧠 AI Chat Admin Panel
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+A modern, responsive AI-powered admin dashboard inspired by Intercom. Built with **React** and **Bootstrap**, it includes a real-time chat interface, inbox management, and an AI Copilot panel to assist agents during conversations.
 
-## Expanding the ESLint configuration
+## 🚀 Live Demo
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+👉 [View Deployed App](https://ai-panel-p8p4v7y8s-abhinav120304s-projects.vercel.app/)
+
+## 📂 Features
+
+- 📥 **Inbox Sidebar** with customer messages sorted by waiting time
+- 💬 **Real-time Chat Panel** with agent/customer message bubbles
+- 🤖 **AI Copilot** panel for live support suggestions
+- 🌙 Light UI inspired by Intercom, fully responsive
+- ⚡️ Fast, clean UI using React + Bootstrap
+
+## 🛠 Tech Stack
+
+- **React**
+- **Bootstrap 5**
+- **React Icons**
+- **Vercel** (for deployment)
+
+## 📦 Getting Started
+
+1. **Clone the repo**
+```bash
+git clone https://github.com/abhinav120304/ai-panel.git
+cd ai-panel
+````
+
+2. **Install dependencies**
+
+```bash
+npm install
+```
+
+3. **Start the dev server**
+
+```bash
+npm start
+```
+
+The app runs at `http://localhost:3000`.
+
+## 🌐 Deployment
+
+Deployed using [Vercel](https://vercel.com/):
+🔗 [https://ai-panel-p8p4v7y8s-abhinav120304s-projects.vercel.app/](https://ai-panel-p8p4v7y8s-abhinav120304s-projects.vercel.app/)
+
+## 📄 License
+
+T
+
+---
+
+
+```
+
+---
+
+Would you like me to generate or format a preview screenshot section as well?
+```
